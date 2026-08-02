@@ -23,4 +23,7 @@ font-family: Arial
 }
 tr:nth-child(odd) {background-color: #f2f2f2;}
 
-
+div {
+  background-colour: darkcyan;
+  text-align: right;
+}
